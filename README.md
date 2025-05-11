@@ -1,0 +1,2 @@
+# CFTGBOT
+基于Cloudflare的Telegram消息转发分组对话机器人
